@@ -1,0 +1,513 @@
+[
+    {
+		"release_mbid": "https://musicbrainz.org/cdstub/bxVdb.tSCeYzXC4i19Tf8Uulee4-",
+        "recording_mbid": "https://musicbrainz.org/recording/784e86ce-da6e-4d0b-9530-9f30afd8dd3b",
+		"local_file_name": "Chahargah_1.mp3",
+        "tonic": 325.0, 
+        "dastgah": "chahargah"
+    }, 
+    {
+		"release_mbid": "https://musicbrainz.org/release/77d923fa-94ac-489b-8e8b-a352d15a52cf",
+        "recording_mbid": "https://musicbrainz.org/recording/b06d4f26-38bc-4c90-91a2-54c688c0823e",
+		"local_file_name": "Chahargah_5.mp3",
+        "tonic": 325.0, 
+        "dastgah": "chahargah"
+    }, 
+    {
+		"release_mbid": "https://musicbrainz.org/release/8a8709db-9792-464a-b523-5aaa576b2411",
+        "recording_mbid": "https://musicbrainz.org/recording/8a660cdd-20a0-4ac1-be5b-95e4984ae168",
+		"local_file_name": "Chahargah_6.mp3",
+        "tonic": 346.0, 
+        "dastgah": "chahargah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/8a8709db-9792-464a-b523-5aaa576b2411",
+        "recording_mbid": "https://musicbrainz.org/recording/f88350e0-5dcb-4da4-b9e9-15536a4e20b6",
+		"local_file_name": "Homayun_6.mp3",
+        "tonic": 325.0, 
+        "dastgah": "homayun"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/77d923fa-94ac-489b-8e8b-a352d15a52cf",
+        "recording_mbid": "https://musicbrainz.org/recording/9ef7628d-6901-42d1-a012-a3195459210b",
+		"local_file_name": "Homayun_8.mp3",
+        "tonic": 386.0, 
+        "dastgah": "homayun"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/77d923fa-94ac-489b-8e8b-a352d15a52cf",
+        "recording_mbid": "https://musicbrainz.org/recording/18b594f1-f7c3-4be5-bd38-bc5a5c67793c",
+		"local_file_name": "Homayun_9.mp3",
+        "tonic": 387.0, 
+        "dastgah": "homayun"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/77d923fa-94ac-489b-8e8b-a352d15a52cf",
+        "recording_mbid": "https://musicbrainz.org/recording/658173dd-9cda-4a44-8dda-7ed7c84c1d62",
+		"local_file_name": "Homayun_10.mp3",
+        "tonic": 387.0, 
+        "dastgah": "homayun"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/11000b75-c050-4474-b7d5-4f67ed18e761",
+        "recording_mbid": "https://musicbrainz.org/recording/39dc7901-d6c4-4751-998c-b521b70cb70e",
+		"local_file_name": "Homayun_1.mp3",
+        "tonic": 315.0, 
+        "dastgah": "homayun"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/cdstub/cfZNCi9KgBHTePBceTdP_MGcaig-",
+        "recording_mbid": "track_3",
+		"local_file_name": "RastPanjgah_4.mp3",
+        "tonic": 166.0, 
+        "dastgah": "rastpanjgah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/cdstub/cfZNCi9KgBHTePBceTdP_MGcaig-",
+        "recording_mbid": "track_10",
+		"local_file_name": "RastPanjgah_3.mp3",
+        "tonic": 231.0, 
+        "dastgah": "rastpanjgah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/77d923fa-94ac-489b-8e8b-a352d15a52cf",
+        "recording_mbid": "https://musicbrainz.org/recording/46453a1e-f195-4e48-a4fb-a35672daa150",
+		"local_file_name": "RastPanjgah_2.mp3",
+        "tonic": 194.0, 
+        "dastgah": "rastpanjgah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/8a8709db-9792-464a-b523-5aaa576b2411",
+        "recording_mbid": "https://musicbrainz.org/recording/f88350e0-5dcb-4da4-b9e9-15536a4e20b6",
+		"local_file_name": "RastPanjgah_5.mp3",
+        "tonic": 193.0, 
+        "dastgah": "rastpanjgah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/cdstub/bxVdb.tSCeYzXC4i19Tf8Uulee4-",
+        "recording_mbid": "track_3",
+		"local_file_name": "Nava_5.mp3",
+        "tonic": 147.0, 
+        "dastgah": "nava"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/161b32ec-a589-44b3-ad35-c0f2b562c0da",
+        "recording_mbid": "https://musicbrainz.org/recording/eb8e910a-9a51-4b31-adbc-e661285f65bc",
+		"local_file_name": "Nava_6.mp3",
+        "tonic": 147.0, 
+        "dastgah": "nava"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/cdstub/bxVdb.tSCeYzXC4i19Tf8Uulee4-",
+        "recording_mbid": "track_2",
+		"local_file_name": "Nava_1.mp3",
+        "tonic": 198.0, 
+        "dastgah": "nava"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/11000b75-c050-4474-b7d5-4f67ed18e761",
+        "recording_mbid": "https://musicbrainz.org/recording/9424c1e3-01ab-4e35-922c-a85f516b1d3a",
+		"local_file_name": "Mahour_1.mp3",
+        "tonic": 130.0, 
+        "dastgah": "mahour"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/77d923fa-94ac-489b-8e8b-a352d15a52cf",
+        "recording_mbid": "https://musicbrainz.org/recording/658173dd-9cda-4a44-8dda-7ed7c84c1d62",
+		"local_file_name": "Mahour_12.mp3",
+        "tonic": 129.0, 
+        "dastgah": "mahour"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/161b32ec-a589-44b3-ad35-c0f2b562c0da",
+        "recording_mbid": "https://musicbrainz.org/recording/1337c44b-9a36-49f1-bc5b-064de4fb1e2a",
+		"local_file_name": "Mahour_13.mp3",
+        "tonic": 196.0, 
+        "dastgah": "mahour"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/8a8709db-9792-464a-b523-5aaa576b2411",
+        "recording_mbid": "https://musicbrainz.org/recording/c21b37a5-21f5-4466-861d-f6213b4d881f",
+		"local_file_name": "Mahour_5.mp3",
+        "tonic": 196.0, 
+        "dastgah": "mahour"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/cdstub/cfZNCi9KgBHTePBceTdP_MGcaig-",
+        "recording_mbid": "track_14",
+		"local_file_name": "Mahour_8.mp3",
+        "tonic": 220.0, 
+        "dastgah": "mahour"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/cdstub/cfZNCi9KgBHTePBceTdP_MGcaig-",
+        "recording_mbid": "track_9",
+		"local_file_name": "Segah_16.mp3",
+        "tonic": 123.0, 
+        "dastgah": "segah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/161b32ec-a589-44b3-ad35-c0f2b562c0da",
+        "recording_mbid": "https://musicbrainz.org/recording/d19d7ad1-f5ff-4ac1-864d-6c4f1c51d8ba",
+		"local_file_name": "Segah_8.mp3",
+        "tonic": 138.0, 
+        "dastgah": "segah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/11000b75-c050-4474-b7d5-4f67ed18e761",
+        "recording_mbid": "https://musicbrainz.org/recording/799793bb-2c24-457d-b07d-ecb766cec77e",
+		"local_file_name": "Segah_7.mp3",
+        "tonic": 259.0, 
+        "dastgah": "segah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/161b32ec-a589-44b3-ad35-c0f2b562c0da",
+        "recording_mbid": "https://musicbrainz.org/recording/ec9d4b8f-7e63-4931-a296-994fc573a980",
+		"local_file_name": "Segah_6.mp3",
+        "tonic": 150.0, 
+        "dastgah": "segah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/8a8709db-9792-464a-b523-5aaa576b2411",
+        "recording_mbid": "https://musicbrainz.org/recording/348b3b3f-627f-4918-a006-43f7555a9fdc",
+		"local_file_name": "Segah_11.mp3",
+        "tonic": 93.0, 
+        "dastgah": "segah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/cdstub/cfZNCi9KgBHTePBceTdP_MGcaig-",
+        "recording_mbid": "track_8",
+		"local_file_name": "Segah_12.mp3",
+        "tonic": 93.0, 
+        "dastgah": "segah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/cdstub/cfZNCi9KgBHTePBceTdP_MGcaig-",
+        "recording_mbid": "track_5",
+		"local_file_name": "Shur_12.mp3",
+        "tonic": 172.0, 
+        "dastgah": "shur"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/8a8709db-9792-464a-b523-5aaa576b2411",
+        "recording_mbid": "https://musicbrainz.org/recording/d350b7db-a2d3-4750-b9b2-82eae4df9a68",
+		"local_file_name": "Shur_11.mp3",
+        "tonic": 172.0, 
+        "dastgah": "shur"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/cdstub/cfZNCi9KgBHTePBceTdP_MGcaig-",
+        "recording_mbid": "track_4",
+		"local_file_name": "Shur_7.mp3",
+        "tonic": 195.0, 
+        "dastgah": "shur"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/161b32ec-a589-44b3-ad35-c0f2b562c0da",
+        "recording_mbid": "https://musicbrainz.org/recording/8776f022-b980-48f5-8dbd-b661e1aa803d",
+		"local_file_name": "Shur_8.mp3",
+        "tonic": 195.0, 
+        "dastgah": "shur"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/11000b75-c050-4474-b7d5-4f67ed18e761",
+        "recording_mbid": "https://musicbrainz.org/recording/3d29b055-2380-4cc4-9bba-fe5f2909a316",
+		"local_file_name": "Shur_2.mp3",
+        "tonic": 204.0, 
+        "dastgah": "shur"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/11000b75-c050-4474-b7d5-4f67ed18e761",
+        "recording_mbid": "https://musicbrainz.org/recording/39dc7901-d6c4-4751-998c-b521b70cb70e",
+		"local_file_name": "Homayun_3.mp3",
+        "tonic": 120.0, 
+        "dastgah": "homayun"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/8a8709db-9792-464a-b523-5aaa576b2411",
+        "recording_mbid": "https://musicbrainz.org/recording/f88350e0-5dcb-4da4-b9e9-15536a4e20b6",
+		"local_file_name": "Homayun_7.mp3",
+        "tonic": 96.0, 
+        "dastgah": "homayun"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/77d923fa-94ac-489b-8e8b-a352d15a52cf",
+        "recording_mbid": "https://musicbrainz.org/recording/b06d4f26-38bc-4c90-91a2-54c688c0823e",
+		"local_file_name": "Chahargah_4.mp3",
+        "tonic": 99.0, 
+        "dastgah": "chahargah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/8a8709db-9792-464a-b523-5aaa576b2411",
+        "recording_mbid": "https://musicbrainz.org/recording/8a660cdd-20a0-4ac1-be5b-95e4984ae168",
+		"local_file_name": "Chahargah_7.mp3",
+        "tonic": 128.0, 
+        "dastgah": "chahargah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/11000b75-c050-4474-b7d5-4f67ed18e761",
+        "recording_mbid": "https://musicbrainz.org/recording/9424c1e3-01ab-4e35-922c-a85f516b1d3a",
+		"local_file_name": "Mahour_2.mp3",
+        "tonic": 130.0, 
+        "dastgah": "mahour"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/8a8709db-9792-464a-b523-5aaa576b2411",
+        "recording_mbid": "https://musicbrainz.org/recording/c21b37a5-21f5-4466-861d-f6213b4d881f",
+		"local_file_name": "Mahour_6.mp3",
+        "tonic": 130.0, 
+        "dastgah": "mahour"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/77d923fa-94ac-489b-8e8b-a352d15a52cf",
+        "recording_mbid": "https://musicbrainz.org/recording/658173dd-9cda-4a44-8dda-7ed7c84c1d62",
+		"local_file_name": "Mahour_11.mp3",
+        "tonic": 194.0, 
+        "dastgah": "mahour"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/11000b75-c050-4474-b7d5-4f67ed18e761",
+        "recording_mbid": "https://musicbrainz.org/recording/799793bb-2c24-457d-b07d-ecb766cec77e",
+		"local_file_name": "Segah_1.mp3",
+        "tonic": 100.0, 
+        "dastgah": "segah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/77d923fa-94ac-489b-8e8b-a352d15a52cf",
+        "recording_mbid": "https://musicbrainz.org/recording/d4cfa249-196d-4abd-8ff0-58482594e6e8",
+		"local_file_name": "Segah_10.mp3",
+        "tonic": 122.0, 
+        "dastgah": "segah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/161b32ec-a589-44b3-ad35-c0f2b562c0da",
+        "recording_mbid": "https://musicbrainz.org/recording/ec9d4b8f-7e63-4931-a296-994fc573a980",
+		"local_file_name": "Segah_5.mp3",
+        "tonic": 149.0, 
+        "dastgah": "segah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/cdstub/cfZNCi9KgBHTePBceTdP_MGcaig-",
+        "recording_mbid": "track_8",
+		"local_file_name": "Segah_15.mp3",
+        "tonic": 122.0, 
+        "dastgah": "segah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/cdstub/cfZNCi9KgBHTePBceTdP_MGcaig-",
+        "recording_mbid": "track_4",
+		"local_file_name": "Shur_5.mp3",
+        "tonic": 195.0, 
+        "dastgah": "shur"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/cdstub/bxVdb.tSCeYzXC4i19Tf8Uulee4-",
+        "recording_mbid": "track_2",
+		"local_file_name": "Nava_2.mp3",
+        "tonic": 180.0, 
+        "dastgah": "nava"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/77d923fa-94ac-489b-8e8b-a352d15a52cf",
+        "recording_mbid": "https://musicbrainz.org/recording/46453a1e-f195-4e48-a4fb-a35672daa150",
+		"local_file_name": "RastPanjgah_1.mp3",
+        "tonic": 173.0, 
+        "dastgah": "rastpanjgah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/11000b75-c050-4474-b7d5-4f67ed18e761",
+        "recording_mbid": "https://musicbrainz.org/recording/39dc7901-d6c4-4751-998c-b521b70cb70e",
+		"local_file_name": "Homayun_2.mp3",
+        "tonic": 120.0, 
+        "dastgah": "homayun"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/11000b75-c050-4474-b7d5-4f67ed18e761",
+        "recording_mbid": "https://musicbrainz.org/recording/784e86ce-da6e-4d0b-9530-9f30afd8dd3b",
+		"local_file_name": "Chahargah_2.mp3",
+        "tonic": 196.0, 
+        "dastgah": "chahargah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/77d923fa-94ac-489b-8e8b-a352d15a52cf",
+        "recording_mbid": "https://musicbrainz.org/recording/b06d4f26-38bc-4c90-91a2-54c688c0823e",
+		"local_file_name": "Chahargah_3.mp3",
+        "tonic": 194.0, 
+        "dastgah": "chahargah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/8a8709db-9792-464a-b523-5aaa576b2411",
+        "recording_mbid": "https://musicbrainz.org/recording/8a660cdd-20a0-4ac1-be5b-95e4984ae168",
+		"local_file_name": "Chahargah_8.mp3",
+        "tonic": 128.0, 
+        "dastgah": "chahargah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/11000b75-c050-4474-b7d5-4f67ed18e761",
+        "recording_mbid": "https://musicbrainz.org/recording/3d29b055-2380-4cc4-9bba-fe5f2909a316",
+		"local_file_name": "Shur_3.mp3",
+        "tonic": 99.0, 
+        "dastgah": "shur"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/cdstub/cfZNCi9KgBHTePBceTdP_MGcaig-",
+        "recording_mbid": "track_4",
+		"local_file_name": "Shur_4.mp3",
+        "tonic": 122.0, 
+        "dastgah": "shur"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/161b32ec-a589-44b3-ad35-c0f2b562c0da",
+        "recording_mbid": "https://musicbrainz.org/recording/8776f022-b980-48f5-8dbd-b661e1aa803d",
+		"local_file_name": "Shur_9.mp3",
+        "tonic": 120.0, 
+        "dastgah": "shur"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/8a8709db-9792-464a-b523-5aaa576b2411",
+        "recording_mbid": "https://musicbrainz.org/recording/d350b7db-a2d3-4750-b9b2-82eae4df9a68",
+		"local_file_name": "Shur_10.mp3",
+        "tonic": 120.0, 
+        "dastgah": "shur"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/11000b75-c050-4474-b7d5-4f67ed18e761",
+        "recording_mbid": "https://musicbrainz.org/recording/9424c1e3-01ab-4e35-922c-a85f516b1d3a",
+		"local_file_name": "Mahour_3.mp3",
+        "tonic": 97.0, 
+        "dastgah": "mahour"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/8a8709db-9792-464a-b523-5aaa576b2411",
+        "recording_mbid": "https://musicbrainz.org/recording/c21b37a5-21f5-4466-861d-f6213b4d881f",
+		"local_file_name": "Mahour_4.mp3",
+        "tonic": 101.0, 
+        "dastgah": "mahour"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/cdstub/cfZNCi9KgBHTePBceTdP_MGcaig-",
+        "recording_mbid": "track_14",
+		"local_file_name": "Mahour_7.mp3",
+        "tonic": 100.0, 
+        "dastgah": "mahour"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/161b32ec-a589-44b3-ad35-c0f2b562c0da",
+        "recording_mbid": "https://musicbrainz.org/recording/282cb063-8196-420b-9540-c97e596ac712",
+		"local_file_name": "Mahour_14.mp3",
+        "tonic": 128.0, 
+        "dastgah": "mahour"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/161b32ec-a589-44b3-ad35-c0f2b562c0da",
+        "recording_mbid": "https://musicbrainz.org/recording/39cc742a-f5b8-4edf-866f-a2a4070dfa21",
+		"local_file_name": "Mahour_15.mp3",
+        "tonic": 131.0, 
+        "dastgah": "mahour"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/77d923fa-94ac-489b-8e8b-a352d15a52cf",
+        "recording_mbid": "https://musicbrainz.org/recording/d4cfa249-196d-4abd-8ff0-58482594e6e8",
+		"local_file_name": "Mahour_10.mp3",
+        "tonic": 130.0, 
+        "dastgah": "mahour"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/11000b75-c050-4474-b7d5-4f67ed18e761",
+        "recording_mbid": "https://musicbrainz.org/recording/7a8cf3b4-2a9c-4c2b-a7b4-cf9083709cb3",
+		"local_file_name": "Nava_3.mp3",
+        "tonic": 180.0, 
+        "dastgah": "nava"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/11000b75-c050-4474-b7d5-4f67ed18e761",
+        "recording_mbid": "https://musicbrainz.org/recording/5f022afa-581f-4d64-8c8d-0f5eb0ee5094",
+		"local_file_name": "Nava_4.mp3",
+        "tonic": 147.0, 
+        "dastgah": "nava"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/161b32ec-a589-44b3-ad35-c0f2b562c0da",
+        "recording_mbid": "https://musicbrainz.org/recording/eb8e910a-9a51-4b31-adbc-e661285f65bc",
+		"local_file_name": "Nava_7.mp3",
+        "tonic": 148.0, 
+        "dastgah": "nava"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/11000b75-c050-4474-b7d5-4f67ed18e761",
+        "recording_mbid": "https://musicbrainz.org/recording/799793bb-2c24-457d-b07d-ecb766cec77e",
+		"local_file_name": "Segah_3.mp3",
+        "tonic": 102.0, 
+        "dastgah": "segah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/161b32ec-a589-44b3-ad35-c0f2b562c0da",
+        "recording_mbid": "https://musicbrainz.org/recording/ec9d4b8f-7e63-4931-a296-994fc573a980",
+		"local_file_name": "Segah_4.mp3",
+        "tonic": 149.0, 
+        "dastgah": "segah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/8a8709db-9792-464a-b523-5aaa576b2411",
+        "recording_mbid": "https://musicbrainz.org/recording/348b3b3f-627f-4918-a006-43f7555a9fdc",
+		"local_file_name": "Segah_9.mp3",
+        "tonic": 124.0, 
+        "dastgah": "segah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/cdstub/cfZNCi9KgBHTePBceTdP_MGcaig-",
+        "recording_mbid": "track_8",
+		"local_file_name": "Segah_14.mp3",
+        "tonic": 93.0, 
+        "dastgah": "segah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/11000b75-c050-4474-b7d5-4f67ed18e761",
+        "recording_mbid": "https://musicbrainz.org/recording/7a8cf3b4-2a9c-4c2b-a7b4-cf9083709cb3",
+		"local_file_name": "Homayun_4.mp3",
+        "tonic": 120.0, 
+        "dastgah": "homayun"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/cdstub/cfZNCi9KgBHTePBceTdP_MGcaig-",
+        "recording_mbid": "track_2",
+		"local_file_name": "Homayun_5.mp3",
+        "tonic": 121.0, 
+        "dastgah": "homayun"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/8a8709db-9792-464a-b523-5aaa576b2411",
+        "recording_mbid": "https://musicbrainz.org/recording/d350b7db-a2d3-4750-b9b2-82eae4df9a68",
+		"local_file_name": "Shur_6.mp3",
+        "tonic": 195.0, 
+        "dastgah": "shur"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/11000b75-c050-4474-b7d5-4f67ed18e761",
+        "recording_mbid": "https://musicbrainz.org/recording/3d29b055-2380-4cc4-9bba-fe5f2909a316",
+		"local_file_name": "Shur_1.mp3",
+        "tonic": 203.0, 
+        "dastgah": "shur"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/cdstub/cfZNCi9KgBHTePBceTdP_MGcaig-",
+        "recording_mbid": "track_14",
+		"local_file_name": "Mahour_9.mp3",
+        "tonic": 129.0, 
+        "dastgah": "mahour"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/release/11000b75-c050-4474-b7d5-4f67ed18e761",
+        "recording_mbid": "https://musicbrainz.org/recording/799793bb-2c24-457d-b07d-ecb766cec77e",
+		"local_file_name": "Segah_2.mp3",
+        "tonic": 149.0, 
+        "dastgah": "segah"
+    },
+    {
+		"release_mbid": "https://musicbrainz.org/cdstub/cfZNCi9KgBHTePBceTdP_MGcaig-",
+        "recording_mbid": "track_8",
+		"local_file_name": "Segah_13.mp3",
+        "tonic": 109.0, 
+        "dastgah": "segah"
+    }
+]
