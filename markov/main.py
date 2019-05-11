@@ -17,7 +17,7 @@ for i in range (len(names)):
 tot=0
 for i in range(len(nfiles)):
     tot=tot+nfiles[i]
-
+os.system('./createlog.sh')
     
 for i in range(len(names)):
     for j in range (len(names)):

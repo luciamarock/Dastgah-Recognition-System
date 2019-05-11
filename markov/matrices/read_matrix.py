@@ -6,6 +6,7 @@ Created on Thu Dec 20 16:22:11 2018
 """
 from numpy import genfromtxt
 import math
+import subprocess
 #import matplotlib.pyplot as plt
 
 markov_data=genfromtxt('unknown_matrix.csv')
@@ -104,14 +105,18 @@ for i in range (len(files_name)):
         corr=corr+data_prob[i]*db_prob[i]        
       
     SGPC.append(corr)
-    #print("states global probability correlation {1}".format(1,corr))      
+    #print("states global probability correlation {1}".format(1,corr))    
+nrows=100
+nrows=int(subprocess.check_output(["./nrows.sh"]))
+if nrows < 5:
+    kullback[0]=0
 log_row=[0, 0, 0, 0]
 log_row[0]=euclidean.index(min(euclidean))
 log_row[1]=kullback.index(min(kullback))
 log_row[2]=Bhattacharyya.index(max(Bhattacharyya))
 log_row[3]=SGPC.index(max(SGPC))
 
-with open("results.log", "a") as f:
+with open("results.log", "a") as f:    
     f.write(str(log_row[0]) + "\t" + str(log_row[1]) + "\t" + str(log_row[2]) + "\t" + str(log_row[3]) + "\t" + "\n")
     f.close()
 '''
