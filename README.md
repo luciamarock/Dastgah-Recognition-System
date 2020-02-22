@@ -27,7 +27,7 @@ $>   tar -xzvf markov.tgz
 you will find .py programs and .sh linux scripts. In the next version (under preparation) of this package .sh scripts will be removed and all the functionalities will be included in python scripts. 
 The “scores” folder contains the .csv scores textual files associated to the mp3 audio samples I used for my research, they can be freely shared so you can use those scores without needing the audio files. However you are free to use your audio files and apply this software for their classification. 
 
-This package doesn't need so much additional libraries to be installed however a detailed “How to use” description is under preparation. 
+This package doesn't need so much additional libraries to be installed however a detailed “How to use” description is under preparation. In the meantime you can download the paper here: http://mtg.upf.edu/node/3975
 
 … 
 
